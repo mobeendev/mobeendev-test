@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/mobeendev-test/static/css/main.b84531b2.chunk.css",
-    "main.js": "/mobeendev-test/static/js/main.d82f1664.chunk.js",
-    "main.js.map": "/mobeendev-test/static/js/main.d82f1664.chunk.js.map",
-    "runtime-main.js": "/mobeendev-test/static/js/runtime-main.7c42460a.js",
-    "runtime-main.js.map": "/mobeendev-test/static/js/runtime-main.7c42460a.js.map",
-    "static/js/2.623fa60c.chunk.js": "/mobeendev-test/static/js/2.623fa60c.chunk.js",
-    "static/js/2.623fa60c.chunk.js.map": "/mobeendev-test/static/js/2.623fa60c.chunk.js.map",
+    "main.js": "/mobeendev-test/static/js/main.73fed1b2.chunk.js",
+    "main.js.map": "/mobeendev-test/static/js/main.73fed1b2.chunk.js.map",
+    "runtime-main.js": "/mobeendev-test/static/js/runtime-main.99d3e2f4.js",
+    "runtime-main.js.map": "/mobeendev-test/static/js/runtime-main.99d3e2f4.js.map",
+    "static/js/2.b49fec29.chunk.js": "/mobeendev-test/static/js/2.b49fec29.chunk.js",
+    "static/js/2.b49fec29.chunk.js.map": "/mobeendev-test/static/js/2.b49fec29.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/mobeendev-test/static/css/3.00373544.chunk.css",
-    "static/js/3.0eb6efe3.chunk.js": "/mobeendev-test/static/js/3.0eb6efe3.chunk.js",
-    "static/js/3.0eb6efe3.chunk.js.map": "/mobeendev-test/static/js/3.0eb6efe3.chunk.js.map",
+    "static/js/3.645a5f75.chunk.js": "/mobeendev-test/static/js/3.645a5f75.chunk.js",
+    "static/js/3.645a5f75.chunk.js.map": "/mobeendev-test/static/js/3.645a5f75.chunk.js.map",
     "static/css/4.3e7d09e6.chunk.css": "/mobeendev-test/static/css/4.3e7d09e6.chunk.css",
-    "static/js/4.c411e3f9.chunk.js": "/mobeendev-test/static/js/4.c411e3f9.chunk.js",
-    "static/js/4.c411e3f9.chunk.js.map": "/mobeendev-test/static/js/4.c411e3f9.chunk.js.map",
+    "static/js/4.0d9cb610.chunk.js": "/mobeendev-test/static/js/4.0d9cb610.chunk.js",
+    "static/js/4.0d9cb610.chunk.js.map": "/mobeendev-test/static/js/4.0d9cb610.chunk.js.map",
     "index.html": "/mobeendev-test/index.html",
-    "precache-manifest.9ae4c4767a58bf2ca2615cd0a0be1ce1.js": "/mobeendev-test/precache-manifest.9ae4c4767a58bf2ca2615cd0a0be1ce1.js",
+    "precache-manifest.7e5e88a322637e8c770f87e2e83a861e.js": "/mobeendev-test/precache-manifest.7e5e88a322637e8c770f87e2e83a861e.js",
     "service-worker.js": "/mobeendev-test/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/mobeendev-test/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/mobeendev-test/static/css/4.3e7d09e6.chunk.css.map",
     "static/css/main.b84531b2.chunk.css.map": "/mobeendev-test/static/css/main.b84531b2.chunk.css.map",
-    "static/js/2.623fa60c.chunk.js.LICENSE.txt": "/mobeendev-test/static/js/2.623fa60c.chunk.js.LICENSE.txt",
+    "static/js/2.b49fec29.chunk.js.LICENSE.txt": "/mobeendev-test/static/js/2.b49fec29.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mobeendev-test/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/mobeendev-test/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/mobeendev-test/static/media/codeInLogo.47a7a717.webp",
@@ -37,9 +37,9 @@
     "static/media/TalkCard.css": "/mobeendev-test/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c42460a.js",
-    "static/js/2.623fa60c.chunk.js",
+    "static/js/runtime-main.99d3e2f4.js",
+    "static/js/2.b49fec29.chunk.js",
     "static/css/main.b84531b2.chunk.css",
-    "static/js/main.d82f1664.chunk.js"
+    "static/js/main.73fed1b2.chunk.js"
   ]
 }

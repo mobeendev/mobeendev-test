@@ -32,14 +32,17 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle:
+    "I am a Software Developer with comprehensive knowledge in Backend Web Development.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Handling end to end feature development from requirements gathering to production"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Facebook / LinkedIn/ AWS"
+      "⚡ Skilled working in a Micro-Service architecture, API development & building scalable and reliable platforms."
+    ),
+    emoji(
+      "⚡ Integration of third party services such as Facebook / LinkedIn and cloud such as AWS"
     )
   ],
 
@@ -47,6 +50,32 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
+    {
+      skillName: "PHP",
+      fontAwesomeClassname: "fab fa-php"
+    },
+    {
+      skillName: "Laravel",
+      fontAwesomeClassname: "fab fa-laravel"
+    },
+    {
+      skillName: "Symfony",
+      fontAwesomeClassname: "fab fa-symfony"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
+      skillName: "BootStrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
+    },
+
+    {
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
+    },
+
     {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
@@ -66,32 +95,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "PHP",
-      fontAwesomeClassname: "fab fa-php"
-    },
-    {
-      skillName: "Laravel",
-      fontAwesomeClassname: "fab fa-laravel"
-    },
-    {
-      skillName: "Symfony",
-      fontAwesomeClassname: "fab fa-symfony"
-    },
-    {
-      skillName: "BootStrap",
-      fontAwesomeClassname: "fab fa-bootstrap"
-    },
-
-    {
-      skillName: "Git",
-      fontAwesomeClassname: "fab fa-git"
-    },
-
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
     },
     {
       skillName: "sql-database",
