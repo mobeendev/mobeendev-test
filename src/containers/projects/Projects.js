@@ -19,6 +19,7 @@ export default function Projects() {
       fetch("/profile.json")
         .then(result => {
           if (result.ok) {
+            // console.log(result);
             return result.json();
           }
           throw result;
@@ -27,7 +28,6 @@ export default function Projects() {
           setrepoFunction(response.data.user.pinnedItems.edges);
         })
         .catch(function (error) {
-          console.log(error);
           setrepoFunction("Error");
           console.log(
             "Because of this Error, nothing is shown in place of Projects section. Projects section not configured"
